@@ -1,0 +1,15 @@
+/Users/sameergiri/Projects/ThemostatAppEvents/ThemostatAppEvents/bin/Debug/net7.0/ThemostatAppEvents
+/Users/sameergiri/Projects/ThemostatAppEvents/ThemostatAppEvents/bin/Debug/net7.0/ThemostatAppEvents.deps.json
+/Users/sameergiri/Projects/ThemostatAppEvents/ThemostatAppEvents/bin/Debug/net7.0/ThemostatAppEvents.runtimeconfig.json
+/Users/sameergiri/Projects/ThemostatAppEvents/ThemostatAppEvents/bin/Debug/net7.0/ThemostatAppEvents.dll
+/Users/sameergiri/Projects/ThemostatAppEvents/ThemostatAppEvents/bin/Debug/net7.0/ThemostatAppEvents.pdb
+/Users/sameergiri/Projects/ThemostatAppEvents/ThemostatAppEvents/obj/Debug/net7.0/ThemostatAppEvents.csproj.AssemblyReference.cache
+/Users/sameergiri/Projects/ThemostatAppEvents/ThemostatAppEvents/obj/Debug/net7.0/ThemostatAppEvents.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sameergiri/Projects/ThemostatAppEvents/ThemostatAppEvents/obj/Debug/net7.0/ThemostatAppEvents.AssemblyInfoInputs.cache
+/Users/sameergiri/Projects/ThemostatAppEvents/ThemostatAppEvents/obj/Debug/net7.0/ThemostatAppEvents.AssemblyInfo.cs
+/Users/sameergiri/Projects/ThemostatAppEvents/ThemostatAppEvents/obj/Debug/net7.0/ThemostatAppEvents.csproj.CoreCompileInputs.cache
+/Users/sameergiri/Projects/ThemostatAppEvents/ThemostatAppEvents/obj/Debug/net7.0/ThemostatAppEvents.dll
+/Users/sameergiri/Projects/ThemostatAppEvents/ThemostatAppEvents/obj/Debug/net7.0/refint/ThemostatAppEvents.dll
+/Users/sameergiri/Projects/ThemostatAppEvents/ThemostatAppEvents/obj/Debug/net7.0/ThemostatAppEvents.pdb
+/Users/sameergiri/Projects/ThemostatAppEvents/ThemostatAppEvents/obj/Debug/net7.0/ThemostatAppEvents.genruntimeconfig.cache
+/Users/sameergiri/Projects/ThemostatAppEvents/ThemostatAppEvents/obj/Debug/net7.0/ref/ThemostatAppEvents.dll
